@@ -1,30 +1,30 @@
  .u-section-1 {
   background-image: url("images/p3-1.webp");
   background-position: 50% 50%;
-  min-height: 696px;
+  min-height: 667px;
 }
 
 @media (max-width: 1199px) {
    .u-section-1 {
-    min-height: 574px;
+    min-height: 550px;
   }
 }
 
 @media (max-width: 991px) {
    .u-section-1 {
-    min-height: 440px;
+    min-height: 421px;
   }
 }
 
 @media (max-width: 767px) {
    .u-section-1 {
-    min-height: 330px;
+    min-height: 316px;
   }
 }
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 208px;
+    min-height: 199px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 503px;
